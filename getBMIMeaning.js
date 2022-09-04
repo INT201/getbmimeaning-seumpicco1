@@ -17,7 +17,7 @@ return "Normal weight"
  }
  else {
 
-  return "Overweight "
+  return "Overweight"
  }
 }
 
