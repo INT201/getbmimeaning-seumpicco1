@@ -21,6 +21,6 @@ return "Normal weight"
  }
 }
 
-module.exports = fillStartWord
+module.exports = getBMIMeaning
 //console.log(calculateBMI(65,1.8))
 //console.log(getBMIMeaning(64,3))
